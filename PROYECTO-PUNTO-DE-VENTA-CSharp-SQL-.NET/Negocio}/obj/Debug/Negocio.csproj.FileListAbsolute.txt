@@ -1,0 +1,13 @@
+C:\Users\usu01\Desktop\TPFinalNivel2_RuizDiaz\Negocio}\bin\Debug\Negocio}.dll
+C:\Users\usu01\Desktop\TPFinalNivel2_RuizDiaz\Negocio}\bin\Debug\Negocio}.pdb
+C:\Users\usu01\Desktop\TPFinalNivel2_RuizDiaz\Negocio}\bin\Debug\Dominio.dll
+C:\Users\usu01\Desktop\TPFinalNivel2_RuizDiaz\Negocio}\bin\Debug\Dominio.pdb
+C:\Users\usu01\Desktop\TPFinalNivel2_RuizDiaz\Negocio}\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\usu01\Desktop\TPFinalNivel2_RuizDiaz\Negocio}\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usu01\Desktop\TPFinalNivel2_RuizDiaz\Negocio}\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\usu01\Desktop\TPFinalNivel2_RuizDiaz\Negocio}\obj\Debug\Negocio}.dll
+C:\Users\usu01\Desktop\TPFinalNivel2_RuizDiaz\Negocio}\obj\Debug\Negocio}.pdb
+C:\Users\usu01\Desktop\PROYECTOS\TPFinalNivel2_RuizDiaz\Negocio}\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\usu01\Desktop\PROYECTOS\TPFinalNivel2_RuizDiaz\Negocio}\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usu01\Desktop\PROYECTOS\TPFinalNivel2_RuizDiaz\Negocio}\obj\Debug\Negocio}.dll
+C:\Users\usu01\Desktop\PROYECTOS\TPFinalNivel2_RuizDiaz\Negocio}\obj\Debug\Negocio}.pdb

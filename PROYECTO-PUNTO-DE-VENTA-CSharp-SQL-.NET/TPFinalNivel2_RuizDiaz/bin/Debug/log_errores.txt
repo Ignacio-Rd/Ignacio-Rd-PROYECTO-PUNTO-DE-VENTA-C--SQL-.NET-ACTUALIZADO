@@ -1,0 +1,18 @@
+[07/03/2026 13:53:22] - ORIGEN: Error en Impresión
+ERROR: La cadena de entrada no tiene el formato correcto.
+--------------------------------------------------
+[07/03/2026 13:53:26] - ORIGEN: Error en Impresión
+ERROR: La cadena de entrada no tiene el formato correcto.
+--------------------------------------------------
+[07/03/2026 13:53:28] - ORIGEN: Error en Impresión
+ERROR: La cadena de entrada no tiene el formato correcto.
+--------------------------------------------------
+[07/03/2026 13:53:29] - ORIGEN: Error en Impresión
+ERROR: La cadena de entrada no tiene el formato correcto.
+--------------------------------------------------
+[07/03/2026 13:53:30] - ORIGEN: Error en Impresión
+ERROR: La cadena de entrada no tiene el formato correcto.
+--------------------------------------------------
+[07/03/2026 13:55:00] - ORIGEN: Error en Impresión
+ERROR: La cadena de entrada no tiene el formato correcto.
+--------------------------------------------------
